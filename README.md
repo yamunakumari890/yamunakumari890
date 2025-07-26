@@ -32,7 +32,7 @@ Here are a few of my favorite repositories:
 - 🔗 [Basic-java-program](https://github.com/yamunakumari890/Basic-java-program)
 - 🔗 [Developer-Project](https://github.com/yamunakumari890/Developer-Project)
 - 🔗 [localrepo](https://github.com/yamunakumari890/localrepo)
-- (  [Leetcode-solution]https://github.com/yamunakumari890/Leetcode-java-solutions)
+- https://github.com/yamunakumari890/Leetcode-java-solutions)
 
 ---
 
