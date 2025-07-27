@@ -8,7 +8,7 @@
 ---
 
 - 🎓 I'm a BCA student from *Ranchi University*
-- 🌱 Currently learning *Java, HTML, CSS, JS, Git & GitHub*
+- 🌱 Currently learning *Java, HTML, CSS, JS, Git & GitHub, C, C--*
 - 💻 Passionate about *building projects and learning daily*
 - 📫 Reach me at: *yamunakumari731@gmail.com*
 - 📍 From: *Giridih, Jharkhand (India)*
