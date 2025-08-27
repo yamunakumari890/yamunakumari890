@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmpoMWxkN2Y0YzRxeXQ2MW04OGdkbGd3Z21lbTNzcG1iYW9iOXQxNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+</p>
 <h1 align="center">Hi 👋, I'm Yamuna Kumari</h1>
 <h3 align="center">BCA Student | Future Full-Stack Developer | Java & Web Dev Enthusiast</h3>
 
